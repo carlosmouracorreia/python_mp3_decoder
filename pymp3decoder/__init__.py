@@ -1,4 +1,4 @@
-import pymp3_c
+import .pymp3_c
 import struct
 
 
